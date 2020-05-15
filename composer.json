@@ -1,0 +1,12 @@
+{
+    "name": "pderaaij/book-memory",
+    "description": "A tool to collect and reiterate on book notes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Paul de Raaij",
+            "email": "paul@paulderaaij.nl"
+        }
+    ],
+    "require": {}
+}
